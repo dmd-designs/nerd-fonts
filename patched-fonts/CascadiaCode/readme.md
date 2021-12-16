@@ -7,7 +7,7 @@ Font creator
 
 Version
 
-:   1911.21
+:   2111.01
 
 Source
 
@@ -76,3 +76,5 @@ For more information see: [The FAQ](https://github.com/ryanoasis/nerd-fonts/wiki
 ### Why aren't all variations included ?
 
 Combinations are no longer included by default because of the large inflation in size it caused the Repository _and_ the amount of time it takes to rebuild all of the combinations. This issue would exponentially get worse as the numbers of Fonts and Glyph Sets provided increase.
+
+

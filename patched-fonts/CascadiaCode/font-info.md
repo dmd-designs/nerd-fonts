@@ -1,5 +1,5 @@
-Cascdia Code
-============
+Cascadia Code
+=============
 
 Font creator
 
@@ -7,7 +7,7 @@ Font creator
 
 Version
 
-:   1911.21
+:   2111.01
 
 Source
 
